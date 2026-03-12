@@ -1,1 +1,2 @@
-# work01
+# Currency converter
+# Convert the currencies 
